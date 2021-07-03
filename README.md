@@ -1,5 +1,7 @@
-### Hi there 👋
+### Fala galera! 👋
 
+- 🌱 Estou aprendendo JS, React, ReactNative.
+ 
 <!--
 **Belkior/belkior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
